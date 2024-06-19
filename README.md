@@ -25,7 +25,9 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 
 ## 基本实现原理
 1.从网络获取公开任意协议（torjan、ssh、vless、vmess）节点并转化成clash类型代理数据，然后加入数据库存档。
+
 2.定时从数据库提取节点，通过clashspeedtest进行测速，剔除已失效的节点。
+
 3.开启订阅链接服务，获取可用节点。
 
 ## 一些注意事项
