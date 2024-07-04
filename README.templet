@@ -23,6 +23,8 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 
 4.每天使用免费领取加时卡代码进行加时（加时见上节），实现永久免费翻墙/科学上网。
 
+5.欢迎分享你发现的公开节点，我们会对其进行测速并考虑将其添加到订阅服务中。[前往>](https://github.com/bq2015/FreeProxies/issues/1)
+
 ## 基本实现原理
 1.从网络获取公开任意协议（torjan、ssh、vless、vmess）节点并转化成clash类型代理数据，然后加入数据库存档。
 
