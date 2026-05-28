@@ -4,6 +4,8 @@
 由于近期用户激增，导致服务稳定性变差，因此时有出现无法自动更新到github，如发现无当日订阅链接，则可前往如下链接去获取：
 https://blue2sea.com/order/querySubscriptionLink/%20
 
+---
+
 ## 订阅链接&加时卡
 当前最新公共订阅链接为（每日21点30分更新第二天的链接）：
 ```
@@ -35,7 +37,7 @@ https://blue2sea.com/clash/a95785dcfc8956a3708428b43b2fef8a
 > ```
 >
 
-
+----
 
 ## 使用说明
 
@@ -50,6 +52,7 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 4. 每天使用免费领取加时卡代码进行加时（加时见上节），实现永久免费翻墙/科学上网。
 
 5. 欢迎分享你发现的公开节点，我们会对其进行测速并考虑将其添加到订阅服务中。[前往>](https://github.com/bq2015/FreeProxies/issues/1)
+---
 
 ## 基本实现原理
 
@@ -58,6 +61,65 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 2. 定时从数据库提取节点，通过clashspeedtest进行测速，剔除已失效的节点。
 
 3. 开启订阅链接服务，获取可用节点。
+
+---
+
+## 关于科学上网工具/软件的一切
+
+### Windows (7/8/10) 电脑客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| V2rayN | [官网下载](https://github.com/2dust/v2rayN/releases) |
+| V2rayW | [官网下载](https://github.com/Cenmrev/V2RayW/releases) |
+| Clash | [官网下载](https://github.com/Fndroid/clash_for_windows_pkg/releases) |
+| V2rayS | [官网下载](https://github.com/Shinlor/V2RayS/releases) |
+| Mellow | [官网下载](https://github.com/mellow-io/mellow/releases) |
+| Qv2ray | [官网下载](https://github.com/Qv2ray/Qv2ray) |
+
+### Android (Android/小米/华为) 手机客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| V2rayNG | [官网下载](https://github.com/2dust/v2rayNG/releases) |
+| 安卓小火箭 | [官网下载](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
+| BifrostV | [市场下载](https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk) |
+| Clash | [官网下载](https://github.com/Kr328/ClashForAndroid/releases) |
+| Kitsunebi | [市场下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android) |
+
+### MacOS 苹果电脑客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| V2rayU | [官网下载](https://github.com/yanue/V2rayU/releases) |
+| V2rayX | [官网下载](https://github.com/Cenmrev/V2RayX/releases) |
+| ClashX | [官网下载](https://github.com/yichengchen/clashX/releases) |
+
+### Linux (Ubuntu/Centos) 电脑客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| Qv2ray | [官网下载](https://github.com/Qv2ray/Qv2ray) |
+| Mellow | [官网下载](https://github.com/mellow-io/mellow/releases) |
+| V2rayL | [官方安装文档](https://github.com/jiangxufeng/v2rayL) |
+
+> 💡 **iOS (苹果手机) 说明：**
+> 苹果 App Store 暂无免费的 V2ray iOS 客户端。目前付费可用的 App 有：**Shadowrocket（小火箭）**、**pepi**、**i2Ray**、**Kitsunebi** 和 **Quantumult（圈、圈叉）**。
+
+---
+
+## ShadowsocksR (SSR) 客户端下载
+
+| 适用平台 | 客户端说明 | 下载链接 |
+| --- | --- | --- |
+| **Windows (7/8/10)** | SSR小飞机 WinPC 电脑客户端 | [官网下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |
+| **Android** | SSR小飞机 安卓手机客户端 Apk | [官网下载](https://github.com/shadowsocksrr/shadowsocksr-android/releases) |
+| **MacOS** | SSR小飞机 苹果电脑客户端 | [官网下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) |
+
+> 💡 **iOS (苹果手机/iPad) 说明：**
+> 请打开苹果 App Store，直接搜索以下关键词下载：**Mume(暮梅)**、**Potatso Lite**、**FastSocks**、**Shadowrocket（小火箭）**。
+
+---
 
 ## 一些注意事项
 
