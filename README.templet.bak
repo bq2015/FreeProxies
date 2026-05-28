@@ -30,7 +30,7 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 > 👉 **[专属商业私有通道（支持一键导入 Clash）](https://blue2sea.com/#pricing)**
 > 
 > 🎁 **给兄弟们争取的一点福利：**
-> 顺便说下，我去找老板要了个优惠码，注册的时候输入能直接 **立减 10 元**。大家用的时候也算帮我分担点测速服务器的成本，感谢！
+> 顺便说下，我去找老板要了个优惠码，下单的时候输入能直接 **立减 10 元**。大家用的时候也算帮我分担点测速服务器的成本，感谢！
 > 
 > ```text
 > Kylin888
@@ -64,6 +64,62 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 
 ---
 
+## 关于科学上网工具/软件的一切
+
+### Windows (7/8/10) 电脑客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| V2rayN | [官网下载](https://github.com/2dust/v2rayN/releases) |
+| V2rayW | [官网下载](https://github.com/Cenmrev/V2RayW/releases) |
+| Clash | [官网下载](https://github.com/Fndroid/clash_for_windows_pkg/releases) |
+| V2rayS | [官网下载](https://github.com/Shinlor/V2RayS/releases) |
+| Mellow | [官网下载](https://github.com/mellow-io/mellow/releases) |
+| Qv2ray | [官网下载](https://github.com/Qv2ray/Qv2ray) |
+
+### Android (Android/小米/华为) 手机客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| V2rayNG | [官网下载](https://github.com/2dust/v2rayNG/releases) |
+| 安卓小火箭 | [官网下载](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
+| BifrostV | [市场下载](https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk) |
+| Clash | [官网下载](https://github.com/Kr328/ClashForAndroid/releases) |
+| Kitsunebi | [市场下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android) |
+
+### MacOS 苹果电脑客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| V2rayU | [官网下载](https://github.com/yanue/V2rayU/releases) |
+| V2rayX | [官网下载](https://github.com/Cenmrev/V2RayX/releases) |
+| ClashX | [官网下载](https://github.com/yichengchen/clashX/releases) |
+
+### Linux (Ubuntu/Centos) 电脑客户端
+
+| 客户端名称 | 下载链接 |
+| --- | --- |
+| Qv2ray | [官网下载](https://github.com/Qv2ray/Qv2ray) |
+| Mellow | [官网下载](https://github.com/mellow-io/mellow/releases) |
+| V2rayL | [官方安装文档](https://github.com/jiangxufeng/v2rayL) |
+
+> 💡 **iOS (苹果手机) 说明：**
+> 苹果 App Store 暂无免费的 V2ray iOS 客户端。目前付费可用的 App 有：**Shadowrocket（小火箭）**、**pepi**、**i2Ray**、**Kitsunebi** 和 **Quantumult（圈、圈叉）**。
+
+---
+
+## ShadowsocksR (SSR) 客户端下载
+
+| 适用平台 | 客户端说明 | 下载链接 |
+| --- | --- | --- |
+| **Windows (7/8/10)** | SSR小飞机 WinPC 电脑客户端 | [官网下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) |
+| **Android** | SSR小飞机 安卓手机客户端 Apk | [官网下载](https://github.com/shadowsocksrr/shadowsocksr-android/releases) |
+| **MacOS** | SSR小飞机 苹果电脑客户端 | [官网下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) |
+
+> 💡 **iOS (苹果手机/iPad) 说明：**
+> 请打开苹果 App Store，直接搜索以下关键词下载：**Mume(暮梅)**、**Potatso Lite**、**FastSocks**、**Shadowrocket（小火箭）**。
+
+---
 
 ## 一些注意事项
 
