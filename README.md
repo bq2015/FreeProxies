@@ -9,7 +9,7 @@ https://blue2sea.com/order/querySubscriptionLink/%20
 ## 订阅链接&加时卡
 当前最新公共订阅链接为（每日21点30分更新第二天的链接）：
 ```
-https://blue2sea.com/clash/182ff3cb937ce22725456d2abb6e61f6
+https://blue2sea.com/clash/f8a695cb4655b49158cbd738bc67b9e9
 ```
 当前最新加时卡代码为（每30分钟更新1次）：
 ```
