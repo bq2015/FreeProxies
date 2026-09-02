@@ -2,7 +2,7 @@
 永久免费翻墙/科学上网，节点每10分钟自动更新，仅保留可用节点。订阅链接可一键导入，无需频繁更换。如果觉得有帮助，请点个星星支持一下。为了防止链接丢失，建议fork到自己的仓库。
 
 由于近期用户激增，导致服务稳定性变差，因此时有出现无法自动更新到github，如发现无当日订阅链接，则可前往如下链接去获取：
-https://blue2sea.com/order/querySubscriptionLink/%20
+https://blue2sea.com/order/querySubscriptionLink?coupon=BQK26H
 
 ---
 
@@ -33,7 +33,7 @@ cc7b9
 > 顺便说下，我去找老板要了个优惠码，下单的时候输入能直接 **立减 10 元**。大家用的时候也算帮我分担点测速服务器的成本，感谢！
 > 
 > ```text
-> Kylin888
+> BQK26H
 > ```
 >
 
@@ -42,7 +42,7 @@ cc7b9
 ## 使用说明
 
 1. 下载代理工具clash,关于下载地址和下载、下载使用说明参考
-https://blue2sea.com/order/querySubscriptionLink/%20
+https://blue2sea.com/order/querySubscriptionLink?coupon=BQK26H
 
 
 2. 复制公共订阅链接放到浏览器打开，在其页面中找到“个人订阅”，以生成属于自己的订阅链接。这样做，方便省去后续更换订阅链接的烦恼。当然，如果你不嫌麻烦，你也可以直接每天手动更换链接使用公共订阅链接。
